@@ -2,6 +2,7 @@
 # IgnaBot
 
 My first project and Discord bot ever made, I originally made this as a fun way to practise progamming(and getting that sweet Active Developer Badge).
+The code probably won´t be as easy to read by something that I have already mentioned, once i finish all the features i will rewrite the code though.
 
 IgnaBot is a Discord bot which does a little of everything, such as but not limited to: audio streaming, moderation, jokes, etc.
 
@@ -28,7 +29,6 @@ IgnaBot is a Discord bot which does a little of everything, such as but not limi
 
 #### Final Release
 - Add the posibilty to stream audio from different platforms, for example: SoundCloud and Spotify
-- Moderation tools with embeds
 
 *More Things may be added as development advances.* 
 ## Deployment
